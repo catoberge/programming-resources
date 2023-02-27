@@ -1,4 +1,6 @@
-![Programming resources](https://user-images.githubusercontent.com/80479739/221645324-3abb7943-5774-4440-b100-b426e0a1352f.png)
+![Programming resources](https://user-images.githubusercontent.com/80479739/221656842-b5bd9648-7f99-43c7-b436-6883ea1b2453.png)
+
+ - A collection of useful links for programming -
 
 ## Table of contents
 * [HTML](#html)
