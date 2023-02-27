@@ -11,7 +11,7 @@
 
 | <div align="left">Name</div>              | <div align="left">Link</div>                                                                                 |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
-| Character Entity Reference Charth         | https://html.spec.whatwg.org/multipage/named-characters.html                                                 |
+| Character Entity Reference Chart          | https://html.spec.whatwg.org/multipage/named-characters.html                                                 |
 | HTML Boilerplate generator                | https://htmlboilerplates.com                                                                                 |
 | HTML Color Codes                          | https://htmlcolorcodes.com/                                                                                  |
 
@@ -34,7 +34,7 @@
 
 | <div align="left">Name</div>                      | <div align="left">Link</div>                                                                                 |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | 
-| Lottie Files - lightweight andscalable animations | https://lottiefiles.com/                                                                             |
+| Lottie Files - lightweight and scalable animations| https://lottiefiles.com/                                                                             |
 | Phosphor Icons - flexible icon family             | https://phosphoricons.com/                                                                           |
 
 <div align="right">
