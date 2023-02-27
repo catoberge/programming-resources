@@ -9,7 +9,7 @@
 
 ## HTML
 
-| <div align="right">Name</div>             | Link                                                                                                         |
+| <div align="left">Name</div>              | <div align="left">Link</div>                                                                                 |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
 | Character Entity Reference Charth         | https://html.spec.whatwg.org/multipage/named-characters.html                                                 |
 | HTML Boilerplate generator                | https://htmlboilerplates.com                                                                                 |
