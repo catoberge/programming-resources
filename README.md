@@ -2,33 +2,44 @@
 
 ## Table of contents
 * [HTML](#html)
-* CSS
-* Javascript
-* Python
-* VSCode
+* [CSS](#css)
+* [Javascript](#javascript)
+* [Python](#python)
+* [VSCode](#vscode)
 
 ## HTML
 
+| Name                               | Link                                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
+| Character Entity Reference Charth  | https://html.spec.whatwg.org/multipage/named-characters.html                                                 |
+| HTML Boilerplate generator         | https://htmlboilerplates.com                                                                                 |
+| HTML Color Codes                   | https://htmlcolorcodes.com/                                                                                  |
+
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">↥ Back to top</a></b>
 </div>
 
 ## CSS
 
+| Name                                      | Link                                                                                                         |
+| ------------------------------------------| ------------------------------------------------------------------------------------------------------------ | 
+| CSS Layout - popular layouts and patterns | https://csslayout.io/                                                                                        |
+| Tailwind CSS - utility first framework    | https://tailwindcss.com/                                                                                     |
+
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">↥ Back to top</a></b>
 </div>
 
 ## JavaScript
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">↥ Back to top</a></b>
 </div>
 
 ## Python
 
 <div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+    <b><a href="#table-of-contents">↥ Back to top</a></b>
 </div>
 
 ## VSCode
