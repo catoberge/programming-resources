@@ -21,7 +21,7 @@
 
 ## CSS
 
-| Name                                      | Link                                                                                                         |
+| <div align="left">Name</div>              | <div align="left">Link</div>                                                                                 |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
 | CSS Layout - popular layouts and patterns | https://csslayout.io/                                                                                        |
 | Tailwind CSS - utility first framework    | https://tailwindcss.com/                                                                                     |
@@ -32,7 +32,7 @@
 
 ## Icons and animations
 
-| Name                                              | Link                                                                                                 |
+| <div align="left">Name</div>                      | <div align="left">Link</div>                                                                                 |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | 
 | Lottie Files - lightweight andscalable animations | https://lottiefiles.com/                                                                             |
 | Phosphor Icons - flexible icon family             | https://phosphoricons.com/                                                                           |
@@ -43,7 +43,7 @@
 
 ## Python
 
-| Name                                                              | Link                                                                                 |
+| <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
 | Pandas Tutor - visualizes how Python code transforms dataframes   | https://pandastutor.com/                                                             |
 | Python Cheat Sheet                                                | https://www.pythoncheatsheet.org/                                                    |
@@ -55,7 +55,7 @@
 
 ## General IT
 
-| Name                                                              | Link                                                                                 |
+| <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
 | Carbon - create and share images of your code                     | https://carbon.now.sh/                                                               |
 | DEV Community - a place for programmers to share ideas and grow   | https://dev.to/                                                                      |
