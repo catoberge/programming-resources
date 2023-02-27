@@ -1,4 +1,4 @@
-![Programming resources](https://user-images.githubusercontent.com/80479739/221657276-1a9b7f13-8a75-495b-90d2-558ca421b3f0.png)
+![Programming resources](https://user-images.githubusercontent.com/80479739/221657479-8076c574-2383-499d-bf07-a69617162026.png)
 
 ## Table of contents
 * [HTML](#html)
