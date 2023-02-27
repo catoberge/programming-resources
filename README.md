@@ -45,6 +45,7 @@
 
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
+| Python Documentation - the official Python documentation          | https://docs.python.org/3/      
 | Pandas Tutor - visualizes how Python code transforms dataframes   | https://pandastutor.com/                                                             |
 | Python Cheat Sheet                                                | https://www.pythoncheatsheet.org/                                                    |
 | Python Graph Gallery                                              | https://www.python-graph-gallery.com/                                                |
