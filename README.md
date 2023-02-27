@@ -38,6 +38,13 @@
 
 ## Python
 
+| Name                                      | Link                                                                                                         |
+| ------------------------------------------| ------------------------------------------------------------------------------------------------------------ | 
+| Pandas Tutor - visualizes how Python code
+  transforms dataframes
+| Python Cheat Sheet                        | https://www.pythoncheatsheet.org/                                                                            |
+| Python Graph Gallery                      | https://www.python-graph-gallery.com/                                                                        |
+
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
 </div>
