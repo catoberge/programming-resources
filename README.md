@@ -5,7 +5,7 @@
 * [CSS](#css)
 * [Icons and animations](#icons-and-animations)
 * [Python](#python)
-* [General](#general)
+* [Miscellaneous](#miscellaneous)
 
 ## HTML
 
@@ -54,7 +54,7 @@
     <b><a href="#table-of-contents">↥ Back to top</a></b>
 </div>
 
-## General
+## Miscellaneous
 
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
