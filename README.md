@@ -37,6 +37,7 @@
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | 
 | Lottie Files - lightweight and scalable animations| https://lottiefiles.com/                                                                             |
 | Phosphor Icons - flexible icon family             | https://phosphoricons.com/                                                                           |
+| SVG Repo - Free SVG vectors and Icons             | https://www.svgrepo.com/                                                                             |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
