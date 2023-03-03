@@ -24,6 +24,7 @@
 | <div align="left">Name</div>              | <div align="left">Link</div>                                                                                 |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
 | CSS Layout - popular layouts and patterns | https://csslayout.io/                                                                                        |
+| Pico CSS - classless CSS framework        | https://picocss.com/                                                                                         |
 | Tailwind CSS - utility first framework    | https://tailwindcss.com/                                                                                     |
 
 <div align="right">
