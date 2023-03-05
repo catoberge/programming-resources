@@ -25,6 +25,7 @@
 | <div align="left">Name</div>                  | <div align="left">Link</div>                                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
 | CSS Layout - popular layouts and patterns     | https://csslayout.io/                                                                                        |
+| DaisyUI - Free Tailwind components            | https://daisyui.com/                                                                                         |
 | Pico CSS - minimalist/classless framework     | https://picocss.com/                                                                                         |
 | Tailwind CSS - utility first framework        | https://tailwindcss.com/                                                                                     |
 
