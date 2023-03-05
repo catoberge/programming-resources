@@ -10,8 +10,9 @@
 ## HTML
 
 | <div align="left">Name</div>              | <div align="left">Link</div>                                                                                 |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Character Entity Reference Chart          | https://html.spec.whatwg.org/multipage/named-characters.html                                                 |
+| HTML 5 UP - Responsice templates          | https://html5up.net/                                                                                         | 
 | HTML Boilerplate generator                | https://htmlboilerplates.com                                                                                 |
 | HTML Color Codes                          | https://htmlcolorcodes.com/                                                                                  |
 
@@ -21,11 +22,11 @@
 
 ## CSS
 
-| <div align="left">Name</div>              | <div align="left">Link</div>                                                                                 |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
-| CSS Layout - popular layouts and patterns | https://csslayout.io/                                                                                        |
-| Pico CSS - classless CSS framework        | https://picocss.com/                                                                                         |
-| Tailwind CSS - utility first framework    | https://tailwindcss.com/                                                                                     |
+| <div align="left">Name</div>                  | <div align="left">Link</div>                                                                                 |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
+| CSS Layout - popular layouts and patterns     | https://csslayout.io/                                                                                        |
+| Pico CSS - minimalist/classless framework     | https://picocss.com/                                                                                         |
+| Tailwind CSS - utility first framework        | https://tailwindcss.com/                                                                                     |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
@@ -33,7 +34,7 @@
 
 ## Icons and animations
 
-| <div align="left">Name</div>                      | <div align="left">Link</div>                                                                                 |
+| <div align="left">Name</div>                      | <div align="left">Link</div>                                                                         |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | 
 | Lottie Files - lightweight and scalable animations| https://lottiefiles.com/                                                                             |
 | Phosphor Icons - flexible icon family             | https://phosphoricons.com/                                                                           |
