@@ -53,6 +53,7 @@
 | Python Cheat Sheet                                                | https://www.pythoncheatsheet.org/                                                    |
 | Python Documentation - the official Python documentation          | https://docs.python.org/3/                                                           | 
 | Python Graph Gallery                                              | https://www.python-graph-gallery.com/                                                |
+| Real Python - Python tutorials and resources                      | https://realpython.com/                                                              |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
