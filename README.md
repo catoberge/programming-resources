@@ -24,6 +24,7 @@
 
 | <div align="left">Name</div>                  | <div align="left">Link</div>                                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
+| An Interactive Guide To Flexbox - Josh Comeau | https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/                                                |
 | CSS Layout - popular layouts and patterns     | https://csslayout.io/                                                                                        |
 | DaisyUI - Free Tailwind components            | https://daisyui.com/                                                                                         |
 | Pico CSS - minimalist/classless framework     | https://picocss.com/                                                                                         |
