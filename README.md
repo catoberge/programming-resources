@@ -27,7 +27,9 @@
 | An Interactive Guide To Flexbox - Josh Comeau | https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/                                                |
 | CSS Layout - popular layouts and patterns     | https://csslayout.io/                                                                                        |
 | DaisyUI - Free Tailwind components            | https://daisyui.com/                                                                                         |
+| Fontpair - font pairings for your site        | https://www.fontpair.co/                                                                                     |
 | Pico CSS - minimalist/classless framework     | https://picocss.com/                                                                                         |
+| Realtime Colors - visualize your colors       | https://realtimecolors.com/                                                                                  |
 | Tailwind CSS - utility first framework        | https://tailwindcss.com/                                                                                     |
 
 <div align="right">
