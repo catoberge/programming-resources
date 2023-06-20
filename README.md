@@ -27,6 +27,7 @@
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
 | An Interactive Guide To Flexbox - Josh Comeau | https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/                                                |
 | CSS Layout - popular layouts and patterns     | https://csslayout.io/                                                                                        |
+| CSS Reference - visual guide to CSS           | https://cssreference.io/                                                                                     |
 | DaisyUI - Free Tailwind components            | https://daisyui.com/                                                                                         |
 | Fontpair - font pairings for your site        | https://www.fontpair.co/                                                                                     |
 | Pico CSS - minimalist/classless framework     | https://picocss.com/                                                                                         |
