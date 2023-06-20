@@ -15,6 +15,7 @@
 | HTML 5 UP - Responsice templates          | https://html5up.net/                                                                                         | 
 | HTML Boilerplate generator                | https://htmlboilerplates.com                                                                                 |
 | HTML Color Codes                          | https://htmlcolorcodes.com/                                                                                  |
+| HTML Reference - HTML elements/attributes | https://htmlreference.io/                                                                                    |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
