@@ -3,6 +3,7 @@
 ## Table of contents
 * [HTML](#html)
 * [CSS](#css)
+* [JavaScript](#javascript)
 * [Icons and animations](#icons-and-animations)
 * [Python](#python)
 * [Miscellaneous](#miscellaneous)
@@ -34,6 +35,17 @@
 | Realtime Colors - visualize your colors       | https://realtimecolors.com/                                                                                  |
 | Skeleton - simple, responsive boilerplate     | http://getskeleton.com/
 | Tailwind CSS - utility first framework        | https://tailwindcss.com/                                                                                     |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back to top</a></b>
+</div>
+
+## JavaScript
+
+| <div align="left">Name</div>              | <div align="left">Link</div>                                                                                 |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Alpine JS - lightweight JS framework      | https://alpinejs.dev/                                                                                        |
+| Alpine Toolbox - resources for Alpine JS  | https://www.alpinetoolbox.com                                                                                | 
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
