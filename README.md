@@ -13,7 +13,7 @@
 | <div align="left">Name</div>              | <div align="left">Link</div>                                                                                 |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Character Entity Reference Chart          | https://html.spec.whatwg.org/multipage/named-characters.html                                                 |
-| HTML 5 UP - Responsive templates          | https://html5up.net/                                                                                         | 
+| HTML 5 UP - responsive templates          | https://html5up.net/                                                                                         | 
 | HTML Boilerplate generator                | https://htmlboilerplates.com                                                                                 |
 | HTML Color Codes                          | https://htmlcolorcodes.com/                                                                                  |
 | HTML Reference - HTML elements/attributes | https://htmlreference.io/                                                                                    |
@@ -29,7 +29,7 @@
 | An Interactive Guide To Flexbox - Josh Comeau | https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/                                                |
 | CSS Layout - popular layouts and patterns     | https://csslayout.io/                                                                                        |
 | CSS Reference - visual guide to CSS           | https://cssreference.io/                                                                                     |
-| DaisyUI - Free Tailwind components            | https://daisyui.com/                                                                                         |
+| DaisyUI - free Tailwind components            | https://daisyui.com/                                                                                         |
 | Fontpair - font pairings for your site        | https://www.fontpair.co/                                                                                     |
 | Pico CSS - minimalist/classless framework     | https://picocss.com/                                                                                         |
 | Realtime Colors - visualize your colors       | https://realtimecolors.com/                                                                                  |
