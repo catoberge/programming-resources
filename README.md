@@ -7,6 +7,7 @@
 * [Icons and animations](#icons-and-animations)
 * [Python](#python)
 * [Miscellaneous](#miscellaneous)
+  
 
 ## HTML
 
