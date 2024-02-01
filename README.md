@@ -12,7 +12,6 @@
 
 | <div align="left">Name</div>              | <div align="left">Link</div>                                                                                 |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Boxicons - Simple Open Source icons       | https://boxicons.com/                                                                                        |
 | Character Entity Reference Chart          | https://html.spec.whatwg.org/multipage/named-characters.html                                                 |
 | HTML 5 UP - responsive templates          | https://html5up.net/                                                                                         | 
 | HTML Boilerplate generator                | https://htmlboilerplates.com                                                                                 |
@@ -55,6 +54,7 @@
 
 | <div align="left">Name</div>                      | <div align="left">Link</div>                                                                         |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | 
+| Boxicons - Simple Open Source icons               | https://boxicons.com/                                                                                        |
 | Lottie Files - lightweight and scalable animations| https://lottiefiles.com/                                                                             |
 | Phosphor Icons - flexible icon family             | https://phosphoricons.com/                                                                           |
 | SVG Repo - Free SVG vectors and Icons             | https://www.svgrepo.com/                                                                             |
