@@ -28,6 +28,7 @@
 | <div align="left">Name</div>                  | <div align="left">Link</div>                                                                                 |
 | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | 
 | An Interactive Guide To Flexbox - Josh Comeau | https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/                                                |
+| Bulma: CSS framework based on Flexbox         | https://bulma.io/                                                                                            |
 | CSS Reference - visual guide to CSS           | https://cssreference.io/                                                                                     |
 | DaisyUI - free Tailwind components            | https://daisyui.com/                                                                                         |
 | Fontpair - font pairings for your site        | https://www.fontpair.co/                                                                                     |
