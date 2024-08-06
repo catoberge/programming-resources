@@ -5,7 +5,7 @@
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [Icons and animations](#icons-and-animations)
-* [Design, fonts and colors](#design-fonts-and-colors)
+* [Fonts and colors](#fonts-and-colors)
 * [Python](#python)
 * [Miscellaneous](#miscellaneous)
   
@@ -66,7 +66,7 @@
     <b><a href="#table-of-contents">↥ Back to top</a></b>
 </div>
 
-## Design,fonts and colors
+## Fonts and colors
 
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
