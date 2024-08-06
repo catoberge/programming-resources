@@ -55,7 +55,7 @@
 
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
-| Beautiful Web Type - Guide to Only the Best Open-Source Typefaces | https://beautifulwebtype.com/                                                        |
+| Beautiful Web Type - guide to open-source typefaces               | https://beautifulwebtype.com/                                                        |
 | Fontpair - font pairings for your site                            | https://www.fontpair.co/                                                             |
 | Realtime Colors - visualize your colors                           | https://realtimecolors.com/                                                          |
 
@@ -67,10 +67,10 @@
 
 | <div align="left">Name</div>                      | <div align="left">Link</div>                                                                         |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | 
-| Boxicons - Simple Open Source icons               | https://boxicons.com/                                                                                        |
+| Boxicons - simple open source icons               | https://boxicons.com/                                                                                        |
 | Lottie Files - lightweight and scalable animations| https://lottiefiles.com/                                                                             |
 | Phosphor Icons - flexible icon family             | https://phosphoricons.com/                                                                           |
-| SVG Repo - Free SVG vectors and Icons             | https://www.svgrepo.com/                                                                             |
+| SVG Repo - Free SVG vectors and icons             | https://www.svgrepo.com/                                                                             |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
