@@ -32,9 +32,7 @@
 | Bulma: CSS framework based on Flexbox         | https://bulma.io/                                                                                            |
 | CSS Reference - visual guide to CSS           | https://cssreference.io/                                                                                     |
 | DaisyUI - free Tailwind components            | https://daisyui.com/                                                                                         |
-| Fontpair - font pairings for your site        | https://www.fontpair.co/                                                                                     |
 | Pico CSS - minimalist/classless framework     | https://picocss.com/                                                                                         |
-| Realtime Colors - visualize your colors       | https://realtimecolors.com/                                                                                  |
 | Tailwind CSS - utility first framework        | https://tailwindcss.com/                                                                                     |
 
 <div align="right">
@@ -71,6 +69,8 @@
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
 | Beautiful Web Type - Guide to Only the Best Open-Source Typefaces | https://beautifulwebtype.com/                                                        |
+| Fontpair - font pairings for your site                            | https://www.fontpair.co/                                                             |
+| Realtime Colors - visualize your colors                           | https://realtimecolors.com/                                                          |
 
 
 <div align="right">
