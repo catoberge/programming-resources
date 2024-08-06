@@ -5,6 +5,7 @@
 * [CSS](#css)
 * [JavaScript](#javascript)
 * [Icons and animations](#icons-and-animations)
+* [Design, fonts and colors](#design-fonts-and-colors)
 * [Python](#python)
 * [Miscellaneous](#miscellaneous)
   
