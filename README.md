@@ -65,6 +65,17 @@
     <b><a href="#table-of-contents">↥ Back to top</a></b>
 </div>
 
+## Design,fonts and colors
+
+| <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
+| Beautiful Web Type - Guide to Only the Best Open-Source Typefaces | https://beautifulwebtype.com/                                                        |
+
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Python
 
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
