@@ -4,8 +4,8 @@
 * [HTML](#html)
 * [CSS](#css)
 * [JavaScript](#javascript)
-* [Icons and animations](#icons-and-animations)
 * [Fonts and colors](#fonts-and-colors)
+* [Icons and animations](#icons-and-animations)
 * [Python](#python)
 * [Miscellaneous](#miscellaneous)
   
@@ -51,6 +51,18 @@
     <b><a href="#table-of-contents">↥ Back to top</a></b>
 </div>
 
+## Fonts and colors
+
+| <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
+| Beautiful Web Type - Guide to Only the Best Open-Source Typefaces | https://beautifulwebtype.com/                                                        |
+| Fontpair - font pairings for your site                            | https://www.fontpair.co/                                                             |
+| Realtime Colors - visualize your colors                           | https://realtimecolors.com/                                                          |
+
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
+
 ## Icons and animations
 
 | <div align="left">Name</div>                      | <div align="left">Link</div>                                                                         |
@@ -62,19 +74,6 @@
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
-</div>
-
-## Fonts and colors
-
-| <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
-| Beautiful Web Type - Guide to Only the Best Open-Source Typefaces | https://beautifulwebtype.com/                                                        |
-| Fontpair - font pairings for your site                            | https://www.fontpair.co/                                                             |
-| Realtime Colors - visualize your colors                           | https://realtimecolors.com/                                                          |
-
-
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
 ## Python
