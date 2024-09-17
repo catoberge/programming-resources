@@ -82,6 +82,7 @@
 
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ |    
+| Automate the boring stuff with Python                             | https://automatetheboringstuff.com/
 | Layman's Guide to Python Built-in Functions                       | https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions
 | Pandas Tutor - visualizes how Python code transforms dataframes   | https://pandastutor.com/                                                             |
 | Python Cheat Sheet                                                | https://www.pythoncheatsheet.org/                                                    |
