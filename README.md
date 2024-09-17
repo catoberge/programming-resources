@@ -82,11 +82,11 @@
 
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ |    
+| Layman's Guide to Python Built-in Functions                       | https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions
 | Pandas Tutor - visualizes how Python code transforms dataframes   | https://pandastutor.com/                                                             |
 | Python Cheat Sheet                                                | https://www.pythoncheatsheet.org/                                                    |
 | Python Documentation - the official Python documentation          | https://docs.python.org/3/                                                           | 
 | Python Graph Gallery                                              | https://www.python-graph-gallery.com/                                                |
-| Real Python - Python tutorials and resources                      | https://realpython.com/                                                              |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
