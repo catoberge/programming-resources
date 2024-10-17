@@ -69,7 +69,7 @@
 
 | <div align="left">Name</div>                      | <div align="left">Link</div>                                                                         |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | 
-| Boxicons - simple open source icons               | https://boxicons.com/                                                                                        |
+| Boxicons - simple open source icons               | https://boxicons.com/                                                                                |
 | Lottie Files - lightweight and scalable animations| https://lottiefiles.com/                                                                             |
 | Phosphor Icons - flexible icon family             | https://phosphoricons.com/                                                                           |
 | SVG Repo - Free SVG vectors and icons             | https://www.svgrepo.com/                                                                             |
@@ -82,12 +82,14 @@
 
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ |    
-| Automate the boring stuff with Python                             | https://automatetheboringstuff.com/
-| Layman's Guide to Python Built-in Functions                       | https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions
-| Pandas Tutor - visualizes how Python code transforms dataframes   | https://pandastutor.com/                                                             |
+| Automate the boring stuff with Python                             | https://automatetheboringstuff.com/                                                  |
+| Layman's Guide to Python Built-in Functions                       | https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions          |
+| Python's many command-line utilities                              | https://www.pythonmorsels.com/cli-tools/                                             |
 | Python Cheat Sheet                                                | https://www.pythoncheatsheet.org/                                                    |
 | Python Documentation - the official Python documentation          | https://docs.python.org/3/                                                           | 
 | Python Graph Gallery                                              | https://www.python-graph-gallery.com/                                                |
+| Pandas Tutor - visualizes how Python code transforms dataframes   | https://pandastutor.com/                                                             |
+| Ultimate Python Cheat Sheet: Practical Python For Everyday Tasks  | https://blog.stackademic.com/ultimate-python-cheat-sheet-practical-python-for-everyday-tasks-c267c1394ee8 |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
