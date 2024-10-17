@@ -56,6 +56,7 @@
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ | 
 | Beautiful Web Type - guide to open-source typefaces               | https://beautifulwebtype.com/                                                        |
+| ColorHexa - generate matching color palettes                      | https://www.colorhexa.com/ 
 | Fontpair - font pairings for your site                            | https://www.fontpair.co/                                                             |
 | Realtime Colors - visualize your colors                           | https://realtimecolors.com/                                                          |
 | Reasonable Colors - open-source color system                      | https://www.reasonable.work/colors/                                                  |
