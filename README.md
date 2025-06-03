@@ -87,10 +87,11 @@
 | Layman's Guide to Python Built-in Functions                       | https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions          |
 | Python's many command-line utilities                              | https://www.pythonmorsels.com/cli-tools/                                             |
 | Python Cheat Sheet                                                | https://www.pythoncheatsheet.org/                                                    |
-| Python Documentation - the official Python documentation          | https://docs.python.org/3/                                                           | 
+| Python Documentation: The official Python documentation           | https://docs.python.org/3/                                                           | 
 | Python Graph Gallery                                              | https://www.python-graph-gallery.com/                                                |
-| Pandas Tutor - visualizes how Python code transforms dataframes   | https://pandastutor.com/                                                             |
+| Pandas Tutor: Visualizes how Python code transforms dataframes    | https://pandastutor.com/                                                             |
 | Ultimate Python Cheat Sheet: Practical Python For Everyday Tasks  | https://blog.stackademic.com/ultimate-python-cheat-sheet-practical-python-for-everyday-tasks-c267c1394ee8 |
+| uv: An extremely fast Python package and project manager          | https://docs.astral.sh/uv/                                                           |
 
 <div align="right">
     <b><a href="#table-of-contents">↥ Back to top</a></b>
