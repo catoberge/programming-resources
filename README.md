@@ -84,7 +84,7 @@
 | <div align="left">Name</div>                                      | <div align="left">Link</div>                                                         |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ |    
 | Automate the boring stuff with Python                             | https://automatetheboringstuff.com/                                                  |
-| Layman's Guide to Python Built-in Functions                       | https://www.mattlayman.com/blog/2024/layman-guide-python-built-in-functions          |
+| Layman's Guide to Python Built-in Functions                       | https://www.mattlayman.com/blog/layman-guide-python-built-in-functions               |
 | Python's many command-line utilities                              | https://www.pythonmorsels.com/cli-tools/                                             |
 | Python Cheat Sheet                                                | https://www.pythoncheatsheet.org/                                                    |
 | Python Documentation: The official Python documentation           | https://docs.python.org/3/                                                           | 
